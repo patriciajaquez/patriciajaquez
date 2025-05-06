@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub!
 
-Currently enrolled in a **Data Analytics Bootcamp**, focusing on Python, statistics, and data visualization.  
+Currently enrolled in a **Data Analytics and IA Bootcamp**, focusing on Python, statistics, data visualization, machine learning, SQL and big data.  
 I’m passionate about connecting data, design, and real-world solutions through continuous learning.
 
 ---
