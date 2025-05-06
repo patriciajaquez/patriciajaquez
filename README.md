@@ -1,44 +1,23 @@
-# 👋 Welcome to my GitHub!
+# 👋 Hi there! I'm Patricia
 
-Currently enrolled in a **Data Analytics and IA Bootcamp**.  
-I’m passionate about connecting data, design, and real-world solutions through continuous learning.
+🎓 Currently learning and building in the field of **Data Analytics & AI**.  
+💡 I enjoy connecting data, design, and real-world insights through continuous learning.  
+🌍 Open to remote opportunities and collaboration.
 
----
+## 📚 What I'm exploring
 
-## 🧠 About Me
+- 🐍 **Python** for data analysis & automation  
+- 📊 **Statistics**, **Probability** & **Linear Algebra**  
+- 🧠 **Machine Learning** & **Natural Language Processing (NLP)**  
+- 🧮 **SQL**, **Power BI**, **Matplotlib**, **Seaborn**  
+- ☁️ **AWS** (Solutions Architect learning path)  
+- 🔧 **Version control** with Git & GitHub
 
-I'm a detail-oriented and creative professional transitioning into tech, with hands-on experience in:
+## 🔍 Interests
 
-- ✅ Print production & quality control  
-- 🎨 Graphic design & visual communication  
-- 💻 Remote collaboration and team communication  
-- 📈 Data analytics foundations and problem-solving  
-- 📦 Entrepreneurship: managing an online store & co-founding a small business  
-- 🌍 Bilingual: Native Spanish | Fluent English
-
----
-
-## 🎯 Goals
-
-To become a skilled Data Analyst and work on projects that bring value through data-driven insights:
-
-- 📊 Becoming confident in Python for data analysis  
-- 📈 Building a strong portfolio of real-world data projects  
-- ☁️ Expanding my knowledge of cloud technologies (especially AWS)  
-- 🤖 Exploring AI and automation with Python  
-
----
-
-## 📚 Currently Learning
-
-- **Python** for data analysis, automation & scripting  
-- **Statistics, Probability & Linear Algebra** for machine learning foundations  
-- **SQL** and **data visualization** tools (Power BI, Matplotlib, Seaborn)  
-- **Machine Learning**, **NLP** & **Deep Learning**  
-- **Big Data tools** (Spark, Hadoop) & **AWS** services  
-- **Version control** with Git and GitHub
-
----
+- 📈 Data-driven storytelling  
+- 🛠️ Real-world projects & problem solving  
+- 🤝 Open source & team collaboration
 
 ## 🛠️ Tools & Technologies
 
@@ -56,19 +35,6 @@ To become a skilled Data Analyst and work on projects that bring value through d
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
----
+## 📫 Let's connect
 
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/patricia-jaquez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/patriciajaquez" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=patriciajaquez&icon=0&color=6A5ACD)](https://visitcount.itsvg.in)
+- [LinkedIn](https://linkedin.com/in/patricia-jaquez)
