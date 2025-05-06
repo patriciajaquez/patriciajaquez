@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub!
 
-Currently enrolled in a **Data Analytics and IA Bootcamp**, focusing on Python, statistics, data visualization, machine learning, SQL and big data.  
+Currently enrolled in a **Data Analytics and IA Bootcamp**.  
 I’m passionate about connecting data, design, and real-world solutions through continuous learning.
 
 ---
@@ -31,11 +31,12 @@ To become a skilled Data Analyst and work on projects that bring value through d
 
 ## 📚 Currently Learning
 
-- **Python** for data analysis & automation  
-- **Statistics & Probability** for data-driven decisions  
+- **Python** for data analysis, automation & scripting  
+- **Statistics, Probability & Linear Algebra** for machine learning foundations  
 - **SQL** and **data visualization** tools (Power BI, Matplotlib, Seaborn)  
-- **AWS** – preparing for the Solutions Architect Associate certification  
-- **Version control** with Git and GitHub  
+- **Machine Learning**, **NLP** & **Deep Learning**  
+- **Big Data tools** (Spark, Hadoop) & **AWS** services  
+- **Version control** with Git and GitHub
 
 ---
 
