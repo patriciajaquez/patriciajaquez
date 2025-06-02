@@ -2,7 +2,6 @@
 
 🎓 Currently learning and building in the field of **Data Analytics & AI**.  
 💡 I enjoy connecting data, design, and real-world insights through continuous learning.  
-🌍 Open to remote opportunities and collaboration.
 
 ## 📚 What I'm exploring
 
